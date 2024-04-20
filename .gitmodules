@@ -1,0 +1,3 @@
+[submodule "3rdparty/litjson"]
+	path = 3rdparty/litjson
+	url = https://github.com/LitJSON/litjson.git

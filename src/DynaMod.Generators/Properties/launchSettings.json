@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DynaMod": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\DynaMod\\DynaMod.csproj"
+    }
+  }
+}
