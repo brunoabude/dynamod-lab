@@ -4,7 +4,7 @@ Lab project for testing out a Unit Of Work/Session Manager for DynamoDb.
 
 The main goal is to play around with things like:
 - Fluent Mapping for the models DB representation
-- AWS Requestes from scrath: Serialization and AWS Signature Version 4
+- AWS Requests from scrath: Serialization and AWS Signature Version 4
 - Source Generators, mostly for creating API Request/Response serializers
 - Optimistic Locks using Condition Expressions
 - Constraints using Condition Expressions
